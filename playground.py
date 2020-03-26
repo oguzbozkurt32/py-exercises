@@ -61,3 +61,5 @@ C=(a**2+b**2)**0.5
 print("Hipotenüs Hesaplanıyor...")
 
 print("Kenarı {} ve {} olan üçgenin hipotenüsü {}dir".format(a,b,C))
+
+print("OĞuz")
